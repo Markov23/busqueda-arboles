@@ -1,0 +1,10 @@
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\bin\Debug\BusquedaArboles.exe.config
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\bin\Debug\BusquedaArboles.exe
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\bin\Debug\BusquedaArboles.pdb
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\obj\Debug\BusquedaArboles.csproj.AssemblyReference.cache
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\obj\Debug\BusquedaArboles.Form1.resources
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\obj\Debug\BusquedaArboles.Properties.Resources.resources
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\obj\Debug\BusquedaArboles.csproj.GenerateResource.cache
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\obj\Debug\BusquedaArboles.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\obj\Debug\BusquedaArboles.exe
+D:\Documentos\Proyectos Visual Studio\BusquedaArboles\BusquedaArboles\obj\Debug\BusquedaArboles.pdb
